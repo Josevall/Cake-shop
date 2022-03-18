@@ -374,6 +374,7 @@ main .menu-section div {
 .adress_table_container table {
     border-collapse: separate;
     border-spacing: 20px 10px;
+    align-items: center;
 }
 footer {
     display: grid;
